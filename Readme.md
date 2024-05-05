@@ -1,6 +1,3 @@
-# Spatial Statistics Lab 2 - Data Analysis
-This repository contains R code for analyzing pollen count data and EVI (Enhanced Vegetation Index) over time.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Description](#data-description)
