@@ -45,4 +45,4 @@ To get started with the analysis, follow these steps:
 1. **Clone the repository:** Clone this repository to your local machine using Git by running the following command in your terminal:
 
    ```bash
-   git clone https://github.com/your-username/spatial-statistics-lab-2.git
+   git clone https://github.com/joshuaokeke/R-linear_regression.git
